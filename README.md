@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabh-147
 - 👀 I’m interested in working with projects.
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently a Java developer
 - 💞️ I’m looking to collaborate on JAVA BASED PROJECTS
 - 📫 E-Mail --> onlinestuff.rishabh@gmail.com 
 
